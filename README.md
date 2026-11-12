@@ -1,4 +1,4 @@
-# Hi, I'm Chong-Wei Wang 👋
+# Hi, I'm Chong-Wei(Peter) Wang 👋
 
 I'm an **M.S. student in Network Engineering** at **National Yang Ming Chiao Tung University (NYCU)**, working in the **Operating Systems and Computer Architecture (OSCAR) Lab**.
 
